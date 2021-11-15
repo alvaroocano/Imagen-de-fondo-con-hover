@@ -1,0 +1,23 @@
+div{
+  background-color: #1AD3EB;
+  width: 450px;
+  border-width: 10px 0;
+  border-style: solid;
+  border-color: blue;
+  margin: 20px;
+  cursor: pointer;
+}
+label{
+padding: 10px;
+margin: 5px;
+cursor: pointer;
+}
+input{
+padding: 5px;
+margin: 5px;
+cursor: pointer;
+align-items: center;
+}
+input:focus {
+  background-color: yellow;
+}

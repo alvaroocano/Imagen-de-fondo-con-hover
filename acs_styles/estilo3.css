@@ -1,0 +1,12 @@
+div {
+	background-image: url("images_css/imgfond1.jpg");
+	border: 3px solid darkblue;
+	border-radius: 50px;
+	padding: 100px;
+}
+div:hover{
+background-image: url("images_css/imgfond2.jpg");
+border: 3px solid darkblue;
+	border-radius: 50px;
+	padding: 100px;
+}
